@@ -1,6 +1,6 @@
-192.168.1.45 HP-PVE.local
-192.168.1.40 rasp.local
-192.168.1.90 adguard.pi.local
-192.168.1.110 adguard.vm.local
-192.168.1.30 qnap-nas.local
-192.168.1.65 ubuntu-desktop.local
+192.168.1.45  HP-PVE.local
+192.168.1.40  rasp.local
+192.168.1.90  adguard.pi.local
+192.168.1.110  adguard.vm.local
+192.168.1.30  qnap-nas.local
+192.168.1.65  ubuntu-desktop.local
