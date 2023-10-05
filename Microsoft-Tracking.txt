@@ -1,4 +1,4 @@
-127.0.0.1  activity.windows.com
-127.0.0.1  assets.msn.com
-127.0.0.1  scorecardresearch.com
-127.0.0.1  edge.microsoft.com
+127.0.0.1 activity.windows.com
+127.0.0.1 assets.msn.com
+127.0.0.1 scorecardresearch.com
+127.0.0.1 edge.microsoft.com
